@@ -10,5 +10,5 @@
 </div>
 
 ## **About this project**
-### **This repo contains a collection 2 credit card number validators. One checks a bulk list of credit card numbers. The other validates the credit card based on user input.**
+### **This repo contains a 2 credit card number validators. One checks a bulk list of credit card numbers. The other validates the credit card based on user input.**
 ---
